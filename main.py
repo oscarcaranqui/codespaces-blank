@@ -1,1 +1,1 @@
-print("Hola Oscar Caranqui ok ok ojjoj")
+print("Hola Oscar Caranqui ok ok qaaaaaaa")
